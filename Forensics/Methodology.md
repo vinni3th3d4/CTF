@@ -37,3 +37,8 @@
 ### Password crackers:
 - John the Ripper (against encryption)
 - HashCat (against hashing)
+
+## PDF
+
+### Extraction
+- `pdfimages` (extract images)
