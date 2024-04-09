@@ -42,3 +42,8 @@
 
 ### Extraction
 - `pdfimages` (extract images)
+
+## Audio/Video
+
+### Audio Analysis
+- [Audacity](https://www.audacityteam.org/) audio editor
